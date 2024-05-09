@@ -1,33 +1,31 @@
 # Harmonix: Song name recognition application with the power of AI
 
-This app is used to streamline production processes, ensure product quality, and optimize efficiency in manufacturing operations. Additionally, it facilitates research, experimentation, and innovation in automation labs, while also enhancing material handling and logistics in warehouse environments. Furthermore, it enables creative exploration and project development for artists and designers. Lastly, it improves precision and productivity in welding and fabrication industries.
+This app is designed to recognize the user's song name that they are listening to in varius user flow. Moreover, this application can help improve other music service recommendation system by learning the user's music taste and elevate user experience on music relaxation process.
 
-In this prototype, users should be able to control the robotic arm's movements accurately and efficiently. They should also be able to program the arm to perform various tasks autonomously. Additionally, users should have the ability to integrate the robotic arm into existing systems seamlessly. Finally, the prototype should provide users with real-time feedback and monitoring capabilities to ensure smooth operation and troubleshoot any issues effectively.
 
-The limitations of this prototype include potential hardware constraints, such as limited payload capacity or range of motion. Additionally, there may be limitations in the precision and accuracy of the robotic arm's movements, which could affect its suitability for certain tasks. Software limitations, such as programming complexity or lack of advanced features, may also impact user experience. Finally, compatibility issues with other systems or devices could pose challenges in integration and interoperability.
+In this prototype, users should be able to perform various tasks related to song recognition and music recommendation. The application utilizes AI technology to identify the song name that the user is listening to and provides recommendations based on the user's music taste. This enhances the user experience in the music relaxation process and contributes to improving music service recommendation systems.
 
 ## Interaction Prototype Link:
-https://mphcmiuedu-my.sharepoint.com/:f:/g/personal/bebeiu21280_student_hcmiu_edu_vn/EiMsHqkhDOhOucvAesSS8ZMB2w43ScN6noqyUlhH1ekH2A?e=OqmdwA
+https://www.figma.com/proto/0Q85ZR2VCp7gNMtfQcAhKL/Harmonix-application?type=design&node-id=1-2&t=dXllpBy71p4qcyW6-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1&mode=design
 
 
 ## Used By
 
 This project is used by the following groups:
-+ Manufacturers: Streamline production, enhance efficiency, and ensure product quality.
-+ Automation Labs: Facilitate research, experimentation, and innovation in robotics.
-+ Logistics Companies: Optimize warehouse operations and improve material handling.
-+ Creative Fields: Enable artists and designers to explore interactive projects.
-+ Material Handling: Automate tasks like palletizing and sorting in warehouses.
-+ Quality Control and Inspection: Ensure product quality and consistency.
-+ Welding and Fabrication: Enhance precision and productivity in welding processes.
-+ Arduino-based robotic arms offer versatile, cost-effective solutions for automation and innovation across industries.
+- Music enthusiasts: Users who are passionate about music and want to easily identify the song they are listening to. They can also benefit from personalized music recommendations based on their music taste.
+
+- Music service providers: Companies or platforms that offer music streaming services can utilize this application to enhance their recommendation systems and provide a better user experience to their customers.
+
+- AI researchers: Researchers in the field of artificial intelligence can use this application as a reference or a starting point for developing their own song recognition and recommendation systems.
+
+- Developers: Software developers who are interested in AI-powered applications can explore the code and functionalities of this project to learn and implement similar features in their own applications.
 
 ## The three tasks have been covered
 
-- Simple Tasks: The PS2 controller prototype allows the user to perform basic operations with the robot arm, such as picking up objects, moving them to a desired location, and releasing them. The controller's buttons and joysticks are mapped to these basic movements, providing intuitive control for straightforward actions.
+- Simple Tasks: Enabing option AI music recommendation allow the application to learn user's music taste so that the system can improve the music recommendation.
 
-- Moderate Tasks: The PS2 controller prototype provides more advanced functionalities to the user. This may include features such as precise positioning, rotation, and manipulation of objects with greater dexterity. The controller's analog sticks and triggers can be utilized to achieve finer control over the robot arm's movements, enabling the user to perform tasks that require more precision and accuracy.
+- Moderate Tasks: With just a simple button and a few second waiting, the app can find the user's desired song name with high accuracy.
 
-- Complex Tasks: The PS2 controller prototype offers comprehensive control capabilities to handle intricate operations. This could involve executing sequences of movements, coordinating multiple joints of the robot arm simultaneously, and performing tasks with high complexity and intricacy. The controller's programmable buttons and customizable configurations allow the user to tailor the control interface to suit the specific requirements of each complex task.
+- Complex Tasks: Creating a playlist require user to enable the AI music recommendation option, with constantly recommend different songs and user can choose to be in their playlist.
 
 
